@@ -1,2 +1,7 @@
 # hotcrp2acm
-Convert HotCRP author list (JSON) to ACM proceeding format (CSV)
+
+Simple python script to convert HotCRP's paper list (JSON) to ACM's author list format for proceeding publications (CSV). 
+
+ACM URL: http://www.acm.org/publications/gi-proceedings
+
+Example: hotcrp2acm.py input.json output.csv
