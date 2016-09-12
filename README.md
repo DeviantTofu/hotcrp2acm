@@ -4,4 +4,10 @@ Simple python script to convert HotCRP's paper list (JSON) to ACM's author list 
 
 ACM URL: http://www.acm.org/publications/gi-proceedings
 
-Example: hotcrp2acm.py input.json output.csv
+Example: 
+  hotcrp2acm.py input.json output.csv
+
+Authors:
+  Xiaofan (Fred) Jiang, Columbia University, jiang@ee.columbia.edu
+  
+  
